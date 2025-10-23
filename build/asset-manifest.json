@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e29b424f.css",
+    "main.js": "/static/js/main.e0acb798.js",
+    "static/media/Dosa about us main photo.png": "/static/media/Dosa about us main photo.776d3ac744f2bbaa98ce.png",
+    "static/media/main logo.png": "/static/media/main logo.1b851bae4b523208cfb5.png",
+    "static/media/Table decore catering.jpg": "/static/media/Table decore catering.9f06dc017ee90f17c693.jpg",
+    "static/media/buffet indian.jpg": "/static/media/buffet indian.c2127d5c237d5457124b.jpg",
+    "static/media/Veg biryani in banana leaf.jpg": "/static/media/Veg biryani in banana leaf.f6b982a12e626d8ab1db.jpg",
+    "static/media/dosa counter.jpg": "/static/media/dosa counter.b9baa5b768629e3d8efc.jpg",
+    "static/media/South indian thail.jpg": "/static/media/South indian thail.ea9c3c9e1d401774d1ef.jpg",
+    "static/media/Dosa.jpg": "/static/media/Dosa.41ea71c09b19bca3915a.jpg",
+    "static/media/idli vada .jpg": "/static/media/idli vada .53aed983da7c92b7177e.jpg",
+    "static/media/Payasam in silver bowl.jpg": "/static/media/Payasam in silver bowl.83b7007c3eff9f509649.jpg",
+    "static/media/filter coffee.jpg": "/static/media/filter coffee.8c1a81388b561bcc2f07.jpg",
+    "static/media/Paneer masala curry in copper bowl.jpg": "/static/media/Paneer masala curry in copper bowl.51f98421d12d00ac93ab.jpg",
+    "static/media/ghee rice with curry.jpg": "/static/media/ghee rice with curry.1da3fbe2f4bc513d5955.jpg",
+    "static/media/lemon rice with chutney.jpg": "/static/media/lemon rice with chutney.f94c6a0b94688eb475ec.jpg",
+    "static/media/Vegetable kurma bowl.jpg": "/static/media/Vegetable kurma bowl.e17dbab86a18dcbbf10b.jpg",
+    "index.html": "/index.html",
+    "main.e29b424f.css.map": "/static/css/main.e29b424f.css.map",
+    "main.e0acb798.js.map": "/static/js/main.e0acb798.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e29b424f.css",
+    "static/js/main.e0acb798.js"
+  ]
+}
